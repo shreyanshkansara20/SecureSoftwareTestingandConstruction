@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.5" class="java.beans.XMLDecoder">
+ <object class="UserSettings2">
+  <void property="fieldOne">
+   <int>110000000</int>
+  </void>
+  <void property="fieldThree">
+   <boolean>true</boolean>
+  </void>
+  <void property="fieldTwo">
+   <string>Hey there brown cow</string>
+  </void>
+ </object>
+</java>
