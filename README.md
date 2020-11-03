@@ -5,4 +5,4 @@ This repository includes understanding of various security concepts required for
 2) XXE Injection
 3) SMT
 4) Klee
-5) Serialization
+5) Insecure Serialization
