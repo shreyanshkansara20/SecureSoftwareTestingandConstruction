@@ -1,0 +1,7 @@
+<!DOCTYPE contacts SYSTEM "contacts.dtd">
+<contacts>
+ <contact>
+  <firstname>John</firstname> 
+  <lastname>&xxe;</lastname>
+ </contact> 
+</contacts>
